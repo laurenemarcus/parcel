@@ -6,21 +6,39 @@ REQUIREMENTS
 ------------
 Ruby v 2.2.0
 
+Google Chrome Version 40.0.2214.111
+
 
 INSTALLATION
 ------------
 Run the following command to install bundle:
-  gem install bundle
+
+  `$ gem install bundler`
 
 Run the following command to install all required gems:
-  bundle
+
+  `$ bundle`
 
 Run the following command to install rspec:
-  gem install rspec
+
+  `$ gem install rspec`
+
+Run the following command to run rspec:
+
+  `$ gem install rspec`
+
+Run the following command to start the Sinatra server:
+
+  `$ ruby app.rb`
+
+In Chrome, go to the following site to launch the app:
+
+  `localhost:4567`
+
 
 KNOWN BUGS
 ---------
-There are no known bugs at this moment.
+Doesn't validate for non-numeric characters.
 
 AUTHORS
 -------
