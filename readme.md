@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-The shipping estimator calculates the volume of a package and the costs.
+The shipping estimator calculates the volume of a package and the cost to ship the parce.
 
 REQUIREMENTS
 ------------
